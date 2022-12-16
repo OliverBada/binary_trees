@@ -1,10 +1,5 @@
 # C - Binary trees
 
-This was a group project in which we learnt about the details, advantages,
-and disadvantages of using trees as data structures. We learned about how to
-qualify trees as well as how to traverse them. Throughout the project, we
-implemented binary, binary search, AVL, and Max Binary Heap trees.
-
 ## Tests :heavy_check_mark:
 
 * [tests](./tests): Folder of test files for all tasks. Provided by ALX.
@@ -255,21 +250,3 @@ Function Prototypes
     * Inserting the value `n`.
     * Extracting the root node.
     * Searching for a node in a binary heap of size `n`.
-
-## Authors
-<details>
-    <summary>Suara Ayomide</summary>
-    <ul>
-    <li><a href="https://www.github.com/aysuarex">Github</a></li>
-    <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
-    <li><a href="mailto:aysuarex@gmail.com">e-mail</a></li>
-    </ul>
-</details>
-<details>
-    <summary>--- Chioma</summary>
-    <ul>
-    <li><a href="https://www.github.com/chioma2000">Github</a></li>
-    <li><a href="https://www.twitter.com/---chioma">Twitter</a></li>
-    <li><a href="mailto:---chioma---@gmail.com">e-mail</a></li>
-    </ul>
-</details>
